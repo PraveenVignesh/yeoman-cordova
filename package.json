@@ -5,5 +5,8 @@
   "keywords": [
     "Yeoman-cordova-angular"
   ],
-  "author": "spritle-team"
+  "author": "spritle-team",
+  "dependencies": {
+    "yeoman-generator": "^0.17.7"
+  }
 }
